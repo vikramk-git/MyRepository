@@ -1,1 +1,4 @@
-a=1+2
+print('Addition')
+x=int(input())
+y=int(input())
+print(x+y)
